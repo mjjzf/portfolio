@@ -1,6 +1,6 @@
 Portfolio
 =========
 
-Projekt Portfolio er en artikelserie, som der samles i forskellige temabøger.
+Projekt Portfolio er en artikelserie, som der samles i forskellige temabÃ¸ger.
 
-Projektet følger Gentlemen's Public License <http://ufora.dk/licens/>.
+Projektet fÃ¸lger Gentlemen's Public License (http://ufora.dk/licens/).
